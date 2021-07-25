@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+.instruction{
+  align: center;
+  width: 125px;
+}
 
 @keyframes App-logo-spin {
   from {

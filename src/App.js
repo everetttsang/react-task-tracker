@@ -8,8 +8,15 @@ function App() {
     <div className="container">
       <Header />
       <div>
+        <center>
+        <div class="instruction" align="left">
+        1. Enter a task into the text field and click "Add Daily" to add it to the table. <br />
+        2. Dailies will reset every 24 hours. <br /><br />
+        </div>
+        </center>
         <TextField />
         <Button />
+        <br />
       </div>
       <Table />
       <ClearButton />

@@ -24,3 +24,7 @@ table, th, td{
 .c2{
   width: 500px
 }
+.instruction{
+  align: center;
+  width: 600px;
+}
